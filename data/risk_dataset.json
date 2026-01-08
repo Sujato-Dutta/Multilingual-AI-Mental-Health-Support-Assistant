@@ -1,0 +1,1502 @@
+[
+  {
+    "text": "I feel like I'm failing at everything.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I want to harm myself badly.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm nervous about meeting new people.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm struggling with time management.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'd like to learn about mindfulness.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I want to end my life.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I haven't left my room in days.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm struggling with intrusive thoughts.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm adjusting to a new situation and it's hard.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've given away my possessions.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "My daily routine feels monotonous.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I just need to find the courage to end it.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been crying a lot and don't know why.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been cutting myself regularly.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I want to die.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm ready to say my final goodbye.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been starving myself on purpose.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel pressure to be perfect.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I feel numb and empty inside.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "No one understands what I'm going through.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I just need to find the courage to end it.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I had a rough day at work today.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "Life isn't worth living anymore.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been thinking about suicide.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I can't face anyone right now.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel like there's no hope for improvement.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been stockpiling medication.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm thinking about overdosing.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been feeling disconnected from friends.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been feeling down this week.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm going to take all my pills.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "No one understands what I'm going through.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I can't stop crying.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm curious about mental health.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've decided this is my last day.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel paralyzed by fear.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I don't want to be here anymore.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been isolating myself from everyone.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been having panic attacks frequently.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel like I need to make some changes.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm planning to hurt myself.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I want to bleed out.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm not going to be here much longer.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I'm not achieving enough.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've already decided to kill myself.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been feeling really hopeless about my situation.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm going to end it all tonight.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I don't see the point anymore.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "Everyone would be better off without me.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been feeling down this week.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "Work has been really busy and I'm tired.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "Nothing can help me now, I've made up my mind.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I need someone to talk to.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm going to take all my pills.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I hate myself so much.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "Life feels pointless right now.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been crying a lot and don't know why.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm so exhausted I can't function.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I can't live like this anymore.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "Life feels pointless right now.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've written my final notes.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm going to end my suffering tonight.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I'm in a rut.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm thinking about overdosing.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I want the pain to stop permanently.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm looking at ways to end my life.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "Nobody will miss me when I'm gone.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I can't make even simple decisions.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been feeling more emotional than usual.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I don't want to wake up tomorrow.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I'm not being heard at work.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I feel paralyzed by fear.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been cutting myself regularly.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I want to jump off a bridge.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been planning my suicide.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been feeling unmotivated lately.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've pushed everyone away.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm dealing with some minor health concerns.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've given away my possessions.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I'm failing at everything.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've tried to hurt myself before.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've lost interest in everything I used to enjoy.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been isolating myself from everyone.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been thinking about hanging myself.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I can't handle the pressure anymore.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been writing goodbye letters.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "Can you tell me about coping strategies?",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm tired of living.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've lost the will to live completely.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm worried about the future.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I feel like I'm falling apart.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm looking at ways to end my life.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I have a plan to kill myself.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel uncertain about a decision I need to make.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I had a rough day at work today.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I feel like I'm going crazy.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm having some work-life balance issues.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been starving myself on purpose.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel pressure to be perfect.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I feel like a burden to everyone.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel like I'm in a rut.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I can't take this pain anymore, I want to end it.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been collecting pills.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I'm breaking down.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm going through a tough transition.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I don't have any energy left.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "What's a good way to relax?",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm feeling overwhelmed with responsibilities.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I had a nightmare and it shook me up.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I miss my family who lives far away.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm curious about mental health.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I feel completely alone in this world.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm not going to be here much longer.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I'm suffocating.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel completely worthless.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm ready to end everything.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been self-harming.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel completely worthless.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "Nothing can help me now, I've made up my mind.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been writing goodbye letters.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I'm losing my mind.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I miss my family who lives far away.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I can't stop thinking negative thoughts.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been comparing myself to others too much.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've decided this is my last day.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "Hello, I just want to chat.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I had an argument with my friend and I'm upset.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm frustrated with my progress.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been feeling restless and unsettled.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm afraid to leave my house.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I want to stop existing.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel lonely sometimes.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been stockpiling medication.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'd like to learn about mindfulness.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been self-harming.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've lost the will to live completely.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've set a date for when I'll do it.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm not exercising as much as I should.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm struggling with intrusive thoughts.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm feeling a bit stressed about my workload lately.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I want to die.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I need someone to talk to.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm going through a tough transition.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I feel like I can't cope with anything.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm not exercising as much as I should.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm afraid to leave my house.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm ready to say my final goodbye.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm feeling a bit stressed about my workload lately.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm tired of living.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I don't want to face another day.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "Nobody will miss me when I'm gone.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been having trouble concentrating.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm ready to end everything.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm nervous about meeting new people.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been thinking about suicide.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've pushed everyone away.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm dealing with some family stress.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been feeling anxious about an upcoming presentation.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I feel like I'm suffocating.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm dealing with some relationship issues.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been collecting pills.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been researching suicide methods.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel disconnected from reality sometimes.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "Life isn't worth living anymore.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I need to make some changes.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I want to end my life.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like giving up on my goals.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel numb and empty inside.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I don't want to wake up tomorrow.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "Everything feels meaningless.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm struggling with time management.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been feeling restless and unsettled.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "There's no point in going on.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I'm not achieving enough.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I haven't been eating properly for weeks.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been having nightmares every night.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I don't recognize myself anymore.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm going to end it all tonight.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I'm not being heard at work.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I don't want to be here anymore.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I can't make even simple decisions.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I don't see the point anymore.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel completely broken.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel like I'm going crazy.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I don't recognize myself anymore.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel like I'm a failure.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I have a plan to kill myself.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel uncertain about a decision I need to make.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been struggling with procrastination.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been feeling disconnected from friends.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've stopped taking care of myself.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel trapped in my life.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've written my final notes.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I'm falling apart.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've stopped taking care of myself.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel completely broken.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm planning to hurt myself.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm saying goodbye to everyone.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I'm breaking down.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel lonely sometimes.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I want to harm myself badly.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I want the pain to stop permanently.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like giving up on my goals.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "Hello, I just want to chat.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm nervous about a job interview.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "There's no point in going on.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm dealing with some relationship issues.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I can't handle the pressure anymore.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I don't have any energy left.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "What's a good way to relax?",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been self-medicating with alcohol.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "Work has been really busy and I'm tired.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been thinking about hanging myself.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I want to disappear forever.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I hate myself so much.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm adjusting to a new situation and it's hard.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm thinking about driving off a cliff.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I don't want to face another day.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I can't live like this anymore.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been overthinking things.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been having dark thoughts lately.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been having dark thoughts lately.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm dealing with a difficult coworker.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I just want the suffering to end forever.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm so exhausted I can't function.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel like I need a break.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been having panic attacks frequently.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I want to stop existing.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I can't cope with anything.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel like I need a break.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I can't stop thinking negative thoughts.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm having trouble sleeping recently.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "The weather has been affecting my mood.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been eating too much junk food lately.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm having some work-life balance issues.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm dealing with a difficult coworker.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I want to disappear forever.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I can't remember the last time I was happy.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel disconnected from reality sometimes.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've set a date for when I'll do it.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm having trouble staying focused.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been having trouble concentrating.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I want to jump off a bridge.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been feeling unmotivated lately.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've already decided to kill myself.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I had a nightmare and it shook me up.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "My daily routine feels monotonous.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I feel like I'm losing everything.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm nervous about a job interview.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I feel like I'm drowning.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm frustrated with my progress.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been struggling with procrastination.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been having nightmares every night.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I can't take this pain anymore, I want to end it.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I'm losing everything.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel like I'm watching my life from outside.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been feeling really hopeless about my situation.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "The weather has been affecting my mood.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I feel like I'm a failure.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel stuck in my routine.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been researching suicide methods.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been comparing myself to others too much.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I feel like I'm watching my life from outside.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I haven't been eating properly for weeks.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel like there's no hope for improvement.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm dealing with some minor health concerns.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I can't face anyone right now.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I just want the suffering to end forever.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I'm going to end my suffering tonight.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I'm losing my mind.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "Everything feels meaningless.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm dealing with some family stress.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been planning my suicide.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel completely alone in this world.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm thinking about driving off a cliff.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "Can you tell me about coping strategies?",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm having trouble sleeping recently.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I haven't left my room in days.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been hurting myself to feel something.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I can't remember the last time I was happy.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm saying goodbye to everyone.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I want to bleed out.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've lost interest in everything I used to enjoy.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel stuck in my routine.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "Everyone would be better off without me.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I feel like I'm drowning.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I feel like a burden to everyone.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I'm having trouble staying focused.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been feeling more emotional than usual.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm worried about the future.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've tried to hurt myself before.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been eating too much junk food lately.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I've been hurting myself to feel something.",
+    "label": 2,
+    "label_name": "HIGH"
+  },
+  {
+    "text": "I've been feeling anxious about an upcoming presentation.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I'm feeling overwhelmed with responsibilities.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I feel trapped in my life.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been self-medicating with alcohol.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I can't stop crying.",
+    "label": 1,
+    "label_name": "MEDIUM"
+  },
+  {
+    "text": "I've been overthinking things.",
+    "label": 0,
+    "label_name": "LOW"
+  },
+  {
+    "text": "I had an argument with my friend and I'm upset.",
+    "label": 0,
+    "label_name": "LOW"
+  }
+]
