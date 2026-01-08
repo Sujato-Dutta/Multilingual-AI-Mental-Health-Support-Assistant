@@ -1,6 +1,6 @@
 # 💚 Multilingual AI Mental Health Support Assistant
 
-A production-grade, multilingual AI mental health support assistant with text capabilities, deployed via Streamlit Community Cloud.
+A production-grade, multilingual AI mental health support assistant deployed via Streamlit Community Cloud.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.29+-red.svg)
@@ -174,7 +174,7 @@ DEBUG=false
 
 ## 📝 Important Disclaimers
 
-> ⚠️ **This AI assistant is NOT a licensed therapist or medical professional.**
+> ⚠️ **This AI assistant is NOT a licensed therapist or medical professional. Also it can make mistakes as the model used is very small. It is meant for fine-tuning demo of how it can leverage even small models' capabilities to provide better results.**
 
 - Provides emotional support only
 - Cannot diagnose conditions
@@ -186,20 +186,11 @@ DEBUG=false
 - 911 (Emergency)
 - Your local emergency services
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
 ## 📄 License
 
 MIT License - see LICENSE file for details.
 
 ## 🙏 Acknowledgments
-
-- OpenAI Whisper for speech recognition
 - Hugging Face Transformers
 - Argos Translate for multilingual support
 - Streamlit for the web framework
