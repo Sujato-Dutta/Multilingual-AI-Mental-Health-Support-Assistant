@@ -18,6 +18,8 @@ numpy>=1.24.0
 # Translation
 langdetect>=1.0.9
 argostranslate>=1.9.0
+# Fix for runtime permission error: Install spaCy model at build time
+https://github.com/explosion/spacy-models/releases/download/xx_sent_ud_sm-3.8.0/xx_sent_ud_sm-3.8.0-py3-none-any.whl
 
 # Streamlit
 streamlit>=1.29.0

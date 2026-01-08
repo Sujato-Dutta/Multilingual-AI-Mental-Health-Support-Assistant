@@ -25,6 +25,17 @@ class Translator:
     
     def __init__(self):
         """Initialize the translator with required packages."""
+        # Fix for Streamlit Cloud permissions: Set local package directory
+        import os
+        from pathlib import Path
+        
+        # Create a local cache directory for argos packages
+        cache_dir = Path("data/argos_cache")
+        cache_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Set environment variable BEFORE importing argostranslate
+        os.environ["ARGOS_PACKAGES_DIR"] = str(cache_dir.absolute())
+        
         self._langdetect_available = False
         self._argos_available = False
         self._installed_languages = set()
